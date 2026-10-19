@@ -4,6 +4,8 @@
 Backend application for IoT-enabled smart backpack with GPS tracking, 
 weight monitoring, and solar charging features.
 - Figma example of working design https://www.figma.com/make/ogJAggBnJTQDUpwoCn1c6F/Backpack-Control-App-Prototype--edit---Copy-?t=T3UiAeZBbyAotDZt-1
+<img width="1172" height="545" alt="image" src="https://github.com/user-attachments/assets/104d5927-1573-47cc-beb0-fcbb4856eb62" />
+
 
 ## Technologies
 - Python Flask
